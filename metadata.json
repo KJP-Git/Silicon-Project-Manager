@@ -1,0 +1,8 @@
+{
+  "name": "Silicon Project Manager",
+  "description": "A futuristic dark-mode project management dashboard featuring a Kanban task board, file explorer, and a live AI thinking log powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
